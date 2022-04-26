@@ -7,3 +7,5 @@ Live long and prosper - Spock
 input something
 
 the best way to predict the futire is to create it - peter drucker  
+
+If you can dream it, you can do it. - walt disney
